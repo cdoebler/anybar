@@ -3,7 +3,7 @@ anybar
 
 ### A very flxible toolbar plugin for jQuery
 
-2012 by [Christian Doebler](http://christian-doebler.net/) <info@christian-doebler.net> <br>
+2012 by [Christian Doebler](http://christian-doebler.net/) <br>
 sponsored by [Pfeiffer Medienhaus](http://pfeiffer-medienhaus.de/)
 
 
