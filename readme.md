@@ -3,8 +3,8 @@ anybar
 
 ### A very flxible toolbar plugin for jQuery
 
-2012 by Christian Doebler <info@christian-doebler.net> http://christian-doebler.net/<br>
-sponsored by Pfeiffer Medienhaus http://pfeiffer-medienhaus.de/
+2012 by [Christian Doebler](http://christian-doebler.net/) <info@christian-doebler.net> <br>
+sponsored by [Pfeiffer Medienhaus](http://pfeiffer-medienhaus.de/)
 
 
 #### Examples
@@ -27,7 +27,7 @@ $("#toolbar")
 #### Settings and defaults
 <pre>
 tab_selector_attribute    "href"
-tab_content_selector:     ".toolBarContent"
+tab_content_selector      ".toolBarContent"
 tab_button_selector       ".tabAnchorList ul li a"
 close_button_selector     "#closeFooterToolBar"
 duration_open             300
